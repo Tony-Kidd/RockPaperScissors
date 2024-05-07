@@ -1,0 +1,1 @@
+A very simple game of Rock, Paper, Scissors between the user and the computer. Written in C programming language. At the start of program/game, the user will type either s, p, or r to choose between scissors, paper, or rock 
